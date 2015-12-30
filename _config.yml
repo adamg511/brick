@@ -1,0 +1,8 @@
+collections:
+  fonts:
+    output: true
+  pages:
+    output: true
+
+exclude: [ "vendor/bundle" ]
+
